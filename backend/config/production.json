@@ -1,0 +1,6 @@
+{
+    "name": "My Cameo search server - Production",
+    "search": {
+        "host": "prod-search-server"
+    }
+}

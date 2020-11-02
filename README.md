@@ -3,11 +3,12 @@
 Full stack starter kit for take-home internship interviews
 
 ## Getting Started
+
 - Clone this repository to your machine
 - Implement the features described below
 - Commit your work
 - Push your commits back to github
-- 
+-
 
 ## Overview
 
